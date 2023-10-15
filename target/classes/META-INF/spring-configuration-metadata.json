@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "application.security.jwt",
+      "type": "com.solides.desafio.config.KeyAndExpiration",
+      "sourceType": "com.solides.desafio.config.KeyAndExpiration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "application.security.jwt.jwt-expiration-in-days",
+      "type": "java.lang.Long",
+      "sourceType": "com.solides.desafio.config.KeyAndExpiration"
+    },
+    {
+      "name": "application.security.jwt.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.solides.desafio.config.KeyAndExpiration"
+    }
+  ],
+  "hints": []
+}
