@@ -2,7 +2,7 @@
 
 ### Para Subir a API é necessário Docker instalado na maquina e rodando
 O arquivo dockerCompose.yml irá baixar uma imagem e subir um container do banco Postgrees, necessário para aplicação.
-Somente é necessário rodar a aplicação no IntelliJ normalmente.
+Somente é necessário rodar a aplicação no IntelliJ normalmente ou via linha de comando como uma aplicação spring boot comum.
 
 ### Funcionamento da API:
 ##### SWAGGER http://localhost:8080/swagger-ui/index.html
